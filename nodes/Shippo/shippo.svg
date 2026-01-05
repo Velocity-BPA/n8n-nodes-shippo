@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="28" fill="#0075FF"/>
+  
+  <!-- Package box -->
+  <rect x="15" y="22" width="30" height="22" rx="2" fill="white"/>
+  
+  <!-- Package tape/seal -->
+  <rect x="27" y="22" width="6" height="22" fill="#0055CC"/>
+  
+  <!-- Arrow pointing up (shipping/send indicator) -->
+  <path d="M30 12L38 20H33V26H27V20H22L30 12Z" fill="white"/>
+  
+  <!-- Small horizontal lines on package -->
+  <rect x="18" y="28" width="8" height="2" rx="1" fill="#0055CC"/>
+  <rect x="18" y="32" width="6" height="2" rx="1" fill="#0055CC"/>
+  
+  <!-- Small horizontal lines on right side -->
+  <rect x="34" y="28" width="8" height="2" rx="1" fill="#0055CC"/>
+  <rect x="36" y="32" width="6" height="2" rx="1" fill="#0055CC"/>
+</svg>
